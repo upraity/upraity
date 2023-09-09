@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @upraity
-- 👀 I’m interested in programmer
+- 👀 I’m interested in programmimg
 - 🌱 I’m currently learning language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
