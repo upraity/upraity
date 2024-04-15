@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/sabkacode?logo=twitter&style=for-the-
 <!--<a href="http://leetboard.artizote.com">LeetBoard</a>-->
 ### Badges
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" height="100px"/><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100px" height="100px"/>
-<b>My GitHub Status</b>
+<br><b>My GitHub Status</b>
 
 <a href="http://www.github.com/upraity"><img src="https://github-readme-stats.vercel.app/api?username=upraity&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="upraity's GitHub stats" /></a>
 
