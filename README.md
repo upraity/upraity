@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Php, Python, JavaScript**
 
-- 👯 I’m currently working on [**Quizzy Loop**](https://dj.000.pe)
-
-- 👨‍💻 All of my projects are available at [portfolio.dj.000.pe](https://portfolio.dj.000.pe)
+<!-- - 👨‍💻 All of my projects are available at [portfolio.dj.000.pe](https://portfolio.dj.000.pe)-->
 
 - 📫 How to reach me **sabkacode@gmail.com**
 
