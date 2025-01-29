@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upraity" alt="upraity" /></a> </p>
 
-- 🔭 I’m currently working on [SabkaCode](https://dj.000.pe)
+- 🔭 [SabkaCode](https://sabkacode.artizote.com)
 
 - 🌱 I’m currently learning **Php, Python, JavaScript**
 
 <!-- - 👨‍💻 All of my projects are available at [portfolio.dj.000.pe](https://portfolio.dj.000.pe)-->
 
-- 📫 How to reach me **sabkacode@gmail.com**
+- 📫 How to reach me **DjUpraity@gmail.com**
 
 ### Badges
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80px" height="80px"/><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80px" height="80px"/>
