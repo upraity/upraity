@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Php, Python, JavaScript**
 
-- 👨‍💻 All of my projects are available at [DjUpraity.Artizote.Com](https://djupraity.artizote.com)-->
+- 👨‍💻 All of my projects are available at [DjUpraity.Artizote.Com](https://djupraity.artizote.com)
 
 - 📫 How to reach me **DjUpraity@gmail.com**
 
