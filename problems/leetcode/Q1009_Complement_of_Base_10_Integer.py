@@ -12,7 +12,7 @@ def bitwiseComplement(self, num):
         sum=0
         i=0
         x = int(x)
-        while(x>0):
+        while(x>0): 
             r1 = x % 10
             m = r1 * pow(2,i)
             i = i+1
