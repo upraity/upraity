@@ -12,6 +12,6 @@ class Solution {
             else
                 $sum2+=$i;
         }
-        return $sum2-$sum1;
+        return $sum2-$sum1; 
     }
 }
