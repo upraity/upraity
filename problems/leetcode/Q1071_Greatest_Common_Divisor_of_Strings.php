@@ -1,9 +1,6 @@
 <?php
 
 class Solution {
-
-
-
     /**
      * @param String $str1
      * @param String $str2
