@@ -15,7 +15,7 @@
 
 ### Badges
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80px" height="80px"/><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80px" height="80px"/>
-<br>
+<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
