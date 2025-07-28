@@ -7,7 +7,7 @@
   
 - 🔭 [SabkaCode](https://sabkacode.artizote.com)
 
-- 🌱 I’m currently learning **Php, Python, JavaScript**
+- 🌱 I’m currently learning **Php, Python, JavaScript** 
 
 - 👨‍💻 All of my projects are available at [DjUpraity.Artizote.Com](https://djupraity.artizote.com)
 
